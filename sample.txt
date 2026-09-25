@@ -1,0 +1,5 @@
+Python is a powerful programming language.
+Python is widely used for data analysis.
+Data analysis helps businesses make better decisions.
+Python can work with files, databases, and APIs.
+Learning Python is useful for data analysts.
